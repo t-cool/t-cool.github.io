@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub レポジトリ一覧</title>
+</head>
+<body>
+    <h1>GitHub レポジトリ一覧</h1>
+    <ul id="repo-list"></ul>
+
+    <script>
+        // GitHub APIからユーザーのリポジトリを取得する関数
+        async function fetchGitHubRepositories(user) {
+            const apiUrl = `https://api.github.com/users/${user}/repos`;
+            const response = await fetch(apiUrl);
+            const repositories = await response.json();
+            return repositories;
+        }
+
+        // レポジトリをアルファベット順に並べて表示する関数
+        function displayRepositories(repositories) {
+            const listElement = document.getElementById('repo-list');
+            // レポジトリを名前でソート
+            repositories.sort((a, b) => a.name.localeCompare(b.name));
+            // リストにレポジトリを追加
+            repositories.forEach(repo => {
+                const listItem = document.createElement('li');
+                const link = document.createElement('a');
+                link.href = repo.html_url;
+                link.textContent = repo.name;
+                listItem.appendChild(link);
+                listElement.appendChild(listItem);
+            });
+        }
+
+        // ユーザー名を指定してリポジトリを取得し、表示する
+        fetchGitHubRepositories('t-cool')
+            .then(displayRepositories)
+            .catch(error => console.error('リポジトリの取得に失敗しました:', error));
+    </script>
+</body>
+</html>
