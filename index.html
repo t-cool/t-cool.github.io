@@ -14,12 +14,10 @@
             const response = await fetch(apiUrl);
             const newRepositories = await response.json();
 
-            // 新しいリポジトリがない場合、またはAPIレートリミットに達した場合は終了
             if (newRepositories.length === 0 || newRepositories.message) {
                 return repositories;
             }
 
-            // 新しいリポジトリを追加して次のページを取得
             repositories = repositories.concat(newRepositories);
             return fetchAllRepositories(user, page + 1, repositories);
         }
@@ -29,10 +27,9 @@
             repositories.sort((a, b) => a.name.localeCompare(b.name));
             repositories.forEach(repo => {
                 const listItem = document.createElement('li');
-                const link = document.createElement('a');
-                link.href = repo.html_url;
-                link.textContent = repo.name;
-                listItem.appendChild(link);
+                const repoContent = document.createElement('span');
+                repoContent.textContent = `${repo.name} : ${repo.description ? repo.description : '説明がありません。'}`;
+                listItem.appendChild(repoContent);
                 listElement.appendChild(listItem);
             });
         }
