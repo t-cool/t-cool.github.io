@@ -28,7 +28,7 @@
             repositories.forEach(repo => {
                 const listItem = document.createElement('li');
                 const repoContent = document.createElement('span');
-                repoContent.textContent = `${repo.name} : ${repo.description ? repo.description : '説明がありません。'}`;
+                repoContent.textContent = `${repo.name} : ${repo.description ? repo.description : ''}`;
                 listItem.appendChild(repoContent);
                 listElement.appendChild(listItem);
             });
