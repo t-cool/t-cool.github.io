@@ -2,11 +2,19 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>t-cool レポジトリ一覧</title>
+    <title>GitHub レポジトリ一覧</title>
 </head>
 <body>
-    <h3>t-cool レポジトリ一覧</h3>
-    <ul id="repo-list"></ul>
+    <h1>GitHub レポジトリ一覧</h1>
+    <table id="repo-table">
+        <thead>
+            <tr>
+                <th>レポジトリ名</th>
+                <th>About</th>
+            </tr>
+        </thead>
+        <tbody id="repo-list"></tbody>
+    </table>
 
     <script>
         async function fetchAllRepositories(user, page = 1, repositories = []) {
@@ -23,14 +31,19 @@
         }
 
         function displayRepositories(repositories) {
-            const listElement = document.getElementById('repo-list');
+            const tableBody = document.getElementById('repo-list');
             repositories.sort((a, b) => a.name.localeCompare(b.name));
             repositories.forEach(repo => {
-                const listItem = document.createElement('li');
-                const repoContent = document.createElement('span');
-                repoContent.textContent = `${repo.name} : ${repo.description ? repo.description : ''}`;
-                listItem.appendChild(repoContent);
-                listElement.appendChild(listItem);
+                const row = document.createElement('tr');
+                const nameCell = document.createElement('td');
+                const aboutCell = document.createElement('td');
+
+                nameCell.textContent = repo.name;
+                aboutCell.textContent = repo.description ? repo.description : '説明がありません。';
+
+                row.appendChild(nameCell);
+                row.appendChild(aboutCell);
+                tableBody.appendChild(row);
             });
         }
 
