@@ -4,20 +4,19 @@
     <meta charset="UTF-8">
     <title>GitHub レポジトリ一覧</title>
     <style>
-        /* テーブルとセルにボーダーを追加 */
         table {
             border-collapse: collapse;
             width: 100%;
-            border-spacing: 0; /* 追加：セルの間のスペースを0に設定 */
+            border-spacing: 0;
         }
         th, td {
-            border: 1px solid #ddd; /* 薄い灰色のボーダー */
+            border: 1px solid #ddd;
             padding: 8px;
             text-align: left;
-            line-height: 1.6; /* 追加：行の高さを広げる */
+            line-height: 1.6;
         }
         th {
-            background-color: #f2f2f2; /* テーブルヘッダーの背景色 */
+            background-color: #f2f2f2;
         }
     </style>
 </head>
@@ -28,6 +27,7 @@
             <tr>
                 <th>レポジトリ名</th>
                 <th>About</th>
+                <th>Website</th> <!-- Added this line -->
             </tr>
         </thead>
         <tbody id="repo-list"></tbody>
@@ -54,12 +54,27 @@
                 const row = document.createElement('tr');
                 const nameCell = document.createElement('td');
                 const aboutCell = document.createElement('td');
+                const websiteCell = document.createElement('td'); // Create a cell for the website
+                const repoLink = document.createElement('a'); // Create an anchor element for the repo name
 
-                nameCell.textContent = repo.name;
+                repoLink.href = repo.html_url; // Set the href attribute to the repository's URL
+                repoLink.textContent = repo.name; // Set the link text to the repository name
+                nameCell.appendChild(repoLink); // Append the anchor element to the nameCell
+
                 aboutCell.textContent = repo.description ? repo.description : '説明がありません。';
+
+                if (repo.homepage) { // Check if the repository has a homepage URL
+                    const websiteLink = document.createElement('a'); // Create an anchor element for the website
+                    websiteLink.href = repo.homepage; // Set the href attribute to the repository's homepage URL
+                    websiteLink.textContent = 'Website'; // Set the link text
+                    websiteCell.appendChild(websiteLink); // Append the anchor element to the websiteCell
+                } else {
+                    websiteCell.textContent = ''; // Display a default message if no homepage URL
+                }
 
                 row.appendChild(nameCell);
                 row.appendChild(aboutCell);
+                row.appendChild(websiteCell); // Append the websiteCell to the row
                 tableBody.appendChild(row);
             });
         }
