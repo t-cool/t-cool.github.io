@@ -16,15 +16,15 @@
 
 [tracey](https://t-cool.github.io/tracy/)
 
-[Pair Maker](https://github.com/t-cool/pair-maker)
-
 [phonetic-annotator](https://t-cool.github.io/phonetic/)
 
-## Education
+## School/Class Management
 
 [Timetable](https://t-cool.github.io/timetable/)
 
+[Pair Maker](https://t-cool.github.io/pair-maker/)
+
 ## Others
 
-[null](https://github.com/t-cool/null)
+[null](https://t-cool.github.io/null/)
 
