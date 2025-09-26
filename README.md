@@ -1,6 +1,6 @@
 # t-cool Project
 
-## 英語教育関係
+## English Education
 
 [English Portal](https://t-cool.github.io/e-portal/)
 
@@ -12,7 +12,7 @@
 
 [talk-with-llama](https://t-cool.github.io/talk-with-llama/)
 
-[英プリ](https://t-cool.github.io/handwrite/)
+[handwrite](https://t-cool.github.io/handwrite/)
 
 [tracey](https://t-cool.github.io/tracy/)
 
@@ -20,11 +20,11 @@
 
 [phonetic-annotator](https://t-cool.github.io/phonetic/)
 
-## 教育関係
+## Education
 
 [Timetable](https://t-cool.github.io/timetable/)
 
-## その他
+## Others
 
 [null](https://github.com/t-cool/null)
 
