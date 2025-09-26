@@ -2,7 +2,7 @@
 
 ## English Education
 
-[English Portal](https://t-cool.github.io/e-portal/)
+[English Portal](https://t-cool.github.io/English-Portal/)
 
 [Talk Paint](https://t-cool.github.io/talk-paint/)
 
