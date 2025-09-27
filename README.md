@@ -1,5 +1,3 @@
-# t-cool Project
-
 ## English Education
 
 [English Portal](https://t-cool.github.io/English-Portal/)
