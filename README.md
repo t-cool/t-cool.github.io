@@ -4,7 +4,7 @@
 
 [Talk Paint](https://t-cool.github.io/talk-paint/)
 
-[AI Talk](https://github.com/t-cool/ai-talk)
+[AI Talk](https://t-cool.github.io/ai-talk)
 
 [talk-with-gemma2](https://t-cool.github.io/talk-with-gemma2/)
 
