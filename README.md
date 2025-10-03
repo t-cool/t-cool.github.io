@@ -1,8 +1,18 @@
 ## English Education
 
+### general-purpose app
+
 [English Portal](https://t-cool.github.io/English-Portal/)
 
-[Talk Paint](https://t-cool.github.io/talk-paint/)
+[Praat Wasm](https://t-cool.github.io/praat-wasm/)
+
+[handwrite](https://t-cool.github.io/handwrite/)
+
+[tracey](https://t-cool.github.io/tracy/)
+
+[phonetic-annotator](https://t-cool.github.io/phonetic/)
+
+### AI-related app
 
 [AI Talk](https://t-cool.github.io/ai-talk)
 
@@ -10,11 +20,8 @@
 
 [talk-with-llama](https://t-cool.github.io/talk-with-llama/)
 
-[handwrite](https://t-cool.github.io/handwrite/)
+[Talk Paint](https://t-cool.github.io/talk-paint/)
 
-[tracey](https://t-cool.github.io/tracy/)
-
-[phonetic-annotator](https://t-cool.github.io/phonetic/)
 
 ## School/Class Management
 
