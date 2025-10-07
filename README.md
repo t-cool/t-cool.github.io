@@ -29,6 +29,8 @@
 
 [Pair Maker](https://t-cool.github.io/pair-maker/)
 
+[Kana master](http://t-cool.github.io/kana-master)
+
 ## Others
 
 [null](https://t-cool.github.io/null/)
