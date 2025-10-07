@@ -29,7 +29,7 @@
 
 [Pair Maker](https://t-cool.github.io/pair-maker/)
 
-[Kana master](http://t-cool.github.io/kana-master)
+[かなタイピング](http://t-cool.github.io/kana-typing)
 
 ## Others
 
