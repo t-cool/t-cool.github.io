@@ -12,6 +12,8 @@
 
 [phonetic-annotator](https://t-cool.github.io/phonetic/)
 
+[flashcard](https://t-cool.github.io/flashcard/)
+
 ### AI-related app
 
 [AI Talk](https://t-cool.github.io/ai-talk)
