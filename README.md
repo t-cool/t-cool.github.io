@@ -31,7 +31,7 @@
 
 [Pair Maker](https://t-cool.github.io/pair-maker/)
 
-[かなタイピング](http://t-cool.github.io/kana-typing)
+[タイピング](https://t-cool.github.io/typing)
 
 ## Others
 
