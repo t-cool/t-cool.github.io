@@ -1,39 +1,55 @@
-## English Education
-
-### general-purpose app
+## 英語教育関連
 
 [English Portal](https://t-cool.github.io/English-Portal/)
+  - フォニックスや英文法を音読をとおして体系的に学べる学習アプリです。
 
 [Praat Wasm](https://t-cool.github.io/praat-wasm/)
+  - 音声学研究で用いられる音声分析ソフトウェア Praat をWebブラウザ上で動作させ、発音矯正や音声スペクトグラム分析を可能にするツールです。
 
 [handwrite](https://t-cool.github.io/handwrite/)
+  - 英語の文字や単語の筆記練習をサポートするアプリです。正しいストロークを視覚的に提示し、手書き練習を行えます。
 
 [tracey](https://t-cool.github.io/tracy/)
+  - 英語の文字や単語の筆記練習をサポートするアプリです。なぞり書練習のプリントを生成できます。
 
 [phonetic-annotator](https://t-cool.github.io/phonetic/)
+  - 入力された英文に対して、国際音声記号（IPA）を自動で付与・表示し、発音の確認や学習に役立てるためのツールです。
 
 [flashcard](https://t-cool.github.io/flashcard/)
-
-### AI-related app
+  - 英単語を効率的に覚えるための単語帳アプリです。
 
 [AI Talk](https://t-cool.github.io/ai-talk)
-
-[talk-with-gemma2](https://t-cool.github.io/talk-with-gemma2/)
-
-[talk-with-llama](https://t-cool.github.io/talk-with-llama/)
+  - AIと自然な英会話の練習ができるアプリです。様々なトピックでのフリートークを通じて、実践的な会話能力を養います。
 
 [Talk Paint](https://t-cool.github.io/talk-paint/)
+  - 英語の対話文を元に、同じトーンの複数の画像をAIに生成させるためのアプリです。
 
+[talk-with-gemma2](https://t-cool.github.io/talk-with-gemma2/)
+  - Google の Gemma 2 モデルを活用した英会話シミュレーションアプリです。人間らしい応答で対話練習ができます。
 
-## School/Class Management
+[talk-with-llama](https://t-cool.github.io/talk-with-llama/)
+  - Meta の Llama モデルに基づき、特定のシチュエーションやロールプレイングを設定して英会話の練習ができる英会話練習アプリです。
 
-[Timetable](https://t-cool.github.io/timetable/)
+---
 
-[Pair Maker](https://t-cool.github.io/pair-maker/)
+### 情報教育関連
 
 [タイピング](https://t-cool.github.io/typing)
+  - タッチタイピングを習得するための練習アプリです。
 
-## Others
+---
+
+## 学校業務関連
+
+[Timetable](https://t-cool.github.io/timetable/)
+  - 授業時間割を効率的に作成・管理するための学校向けの時間割管理ツールです。
+
+[Pair Maker](https://t-cool.github.io/pair-maker/)
+  - ランダムまたは特定の条件に基づいて、生徒のペアやグループを素早く作成するための支援ツールです。活動や座席決めなどに活用できます。
+
+---
+
+## 他
 
 [null](https://t-cool.github.io/null/)
-
+  - 開発中のアプリのテストやシンプルな機能の検証に用いられる、意図的に機能が最小限に抑えられたユーティリティページ（またはプレースホルダー）です。
