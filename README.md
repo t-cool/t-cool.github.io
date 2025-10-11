@@ -1,7 +1,7 @@
 ## 英語教育関連
 
 [English Portal](https://t-cool.github.io/English-Portal/)
-  - フォニックスや英文法を音読をとおして体系的に学べる学習アプリです。
+  - フォニックスや基本的な英語表現、英文法等を体系的に学べる学習アプリです。英文法の学習では、意味順を取り入れています。
 
 [Praat Wasm](https://t-cool.github.io/praat-wasm/)
   - 音声学研究で用いられる音声分析ソフトウェア Praat をWebブラウザ上で動作させ、発音矯正や音声スペクトグラム分析を可能にするツールです。
