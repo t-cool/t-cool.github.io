@@ -3,20 +3,20 @@
 [English Portal](https://t-cool.github.io/English-Portal/)
   - フォニックス、基本的な英語表現、英文法などを体系的に学習できるアプリです。英文法の学習においては、「意味順」を取り入れています。
 
-[Praat Wasm](https://t-cool.github.io/praat-wasm/)
-  - 音声学研究で用いられる音声分析ソフトウェア Praat をWebブラウザ上で動作させ、発音矯正や音声スペクトグラム分析を可能にするツールです。
-
 [handwrite](https://t-cool.github.io/handwrite/)
   - 英語の筆記練習をサポートするアプリです。なぞり書き練習のプリントを生成できます。
 
 [tracey](https://t-cool.github.io/tracy/)
   - 英語の文字や単語の筆記練習をサポートするアプリです。正しいストロークを視覚的に提示し、GIGA端末で手書き練習ができます。
 
-[phonetic-annotator](https://t-cool.github.io/phonetic/)
-  - 入力された英文に対して、国際音声記号（IPA）を自動で付与・表示し、発音の確認や学習に役立てるためのツールです。
-
 [flashcard](https://t-cool.github.io/flashcard/)
   - 英単語を効率的に覚えるための単語帳アプリです。
+
+[Praat Wasm](https://t-cool.github.io/praat-wasm/)
+  - 音声学研究で用いられる音声分析ソフトウェア Praat をWebブラウザ上で動作させ、発音矯正や音声スペクトグラム分析を可能にするツールです。
+
+[phonetic-annotator](https://t-cool.github.io/phonetic/)
+  - 入力された英文に対して、国際音声記号（IPA）を自動で付与・表示し、発音の確認や学習に役立てるためのツールです。
 
 [Talk Paint](https://t-cool.github.io/talk-paint/)
   - 英語の対話文を元に、同じトーンの複数の画像をAIに生成させるためのアプリです。
