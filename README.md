@@ -18,11 +18,11 @@
 [flashcard](https://t-cool.github.io/flashcard/)
   - 英単語を効率的に覚えるための単語帳アプリです。
 
-[AI Talk](https://t-cool.github.io/ai-talk)
-  - AIと自然な英会話の練習ができるアプリです。
-
 [Talk Paint](https://t-cool.github.io/talk-paint/)
   - 英語の対話文を元に、同じトーンの複数の画像をAIに生成させるためのアプリです。
+
+[AI Talk](https://t-cool.github.io/ai-talk)
+  - AIと自然な英会話の練習ができるアプリです。
 
 [talk-with-gemma2](https://t-cool.github.io/talk-with-gemma2/)
   - Google の Gemma 2 モデルを活用した英会話シミュレーションアプリです。人間らしい応答で対話練習ができます。
