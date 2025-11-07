@@ -13,7 +13,10 @@
   - 英単語を効率的に覚えるための単語帳アプリです。
 
 [Praat Wasm](https://t-cool.github.io/praat-wasm/)
-  - 音声学研究で用いられる音声分析ソフトウェア Praat をWebブラウザ上で動作させ、発音矯正や音声スペクトグラム分析を可能にするツールです。
+  - 音声学研究で用いられる音声分析ソフトウェア Praat をWebブラウザ上で動作させることができます。手軽に音声スペクトグラム分析ができます。
+
+[Liaison](https://t-cool.github.io/liaison/)
+  - 英文において単語間の音の連結や強弱を練習するためのアプリケーションです。
 
 [phonetic-annotator](https://t-cool.github.io/phonetic/)
   - 入力された英文に対して、国際音声記号（IPA）を自動で付与・表示し、発音の確認や学習に役立てるためのツールです。
