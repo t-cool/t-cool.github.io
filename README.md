@@ -25,7 +25,8 @@
   - 英語の対話文を元に、同じトーンの複数の画像をAIに生成させるためのアプリです。
 
 [AI Talk](https://t-cool.github.io/ai-talk)
-  - AIと自然な英会話の練習ができるアプリです。
+  - AIと英会話の練習ができるアプリです。モデルとしてはブラウザで動作する最軽量の
+SmolLM2-135M を使っています。
 
 [talk-with-gemma2](https://t-cool.github.io/talk-with-gemma2/)
   - Google の Gemma 2 モデルを活用した英会話シミュレーションアプリです。人間らしい応答で対話練習ができます。
