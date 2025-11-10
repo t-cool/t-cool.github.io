@@ -24,15 +24,15 @@
 [Talk Paint](https://t-cool.github.io/talk-paint/)
   - 英語の対話文を元に、同じトーンの複数の画像をAIに生成させるためのアプリです。
 
-[AI Talk](https://t-cool.github.io/ai-talk)
-  - AIと英会話の練習ができるアプリです。モデルとしてはブラウザで動作する最軽量の
-SmolLM2-135M を使っています。
-
 [talk-with-gemma2](https://t-cool.github.io/talk-with-gemma2/)
   - Google の Gemma 2 モデルを活用した英会話シミュレーションアプリです。人間らしい応答で対話練習ができます。
 
 [talk-with-llama](https://t-cool.github.io/talk-with-llama/)
   - Meta の Llama モデルに基づき、特定のシチュエーションやロールプレイングを設定して英会話の練習ができる英会話練習アプリです。
+
+  - [AI Talk](https://t-cool.github.io/ai-talk)
+  - AI と英会話の練習ができるアプリです。ブラウザで動作するローカルLLM（
+SmolLM2-135M）を使っています。
 
 [marken](https://github.com/t-cool/marken)
   - 英文に対して構造を記号付けするためのアプリケーションです。
