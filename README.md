@@ -1,4 +1,4 @@
-## 英語教育関連
+## 英語教育
 
 [English Portal](https://t-cool.github.io/English-Portal/)
   - 幼稚園から小学校、中学校までの基本的な英語を学習できるアプリケーションです。
@@ -39,7 +39,7 @@ SmolLM2-135M を使っています。
 
 ---
 
-### 情報教育関連
+### 情報教育
 
 [タイピング](https://t-cool.github.io/typing)
   - タッチタイピングを習得するための練習アプリです。
@@ -52,7 +52,7 @@ SmolLM2-135M を使っています。
 
 ---
 
-## 学校業務関連
+## 校務支援
 
 [Timetable](https://t-cool.github.io/timetable/)
   - 授業時間割を効率的に作成・管理するための学校向けの時間割管理ツールです。
