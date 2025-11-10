@@ -18,8 +18,8 @@
 [エイゴリズム](https://t-cool.github.io/liaison/)
   - 英文の音の連結や強弱を練習するためのアプリケーションです。
 
-[phonetic-annotator](https://t-cool.github.io/phonetic/)
-  - 入力された英文に対して、国際音声記号（IPA）を自動で付与・表示し、発音の確認や学習に役立てるためのツールです。
+[一括！発音記号](https://t-cool.github.io/phonetic/)
+  - 入力された英文の全ての英単語に対して、発音記号を一括で付与するツールです。
 
 [Talk Paint](https://t-cool.github.io/talk-paint/)
   - 英語の対話文を元に、同じトーンの複数の画像をAIに生成させるためのアプリです。
