@@ -34,6 +34,9 @@ SmolLM2-135M を使っています。
 [talk-with-llama](https://t-cool.github.io/talk-with-llama/)
   - Meta の Llama モデルに基づき、特定のシチュエーションやロールプレイングを設定して英会話の練習ができる英会話練習アプリです。
 
+[marken](https://github.com/t-cool/marken)
+  - 英文に対して構造を記号付けするためのアプリケーションです。
+
 ---
 
 ### 情報教育関連
