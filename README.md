@@ -3,7 +3,7 @@
 [English Portal](https://t-cool.github.io/English-Portal/)
   - 幼稚園から小学校、中学校までの基本的な英語を学習できるアプリケーションです。
 
-[handwrite](https://t-cool.github.io/handwrite/)
+[英プリ工房](https://t-cool.github.io/handwrite/)
   - 英語の筆記練習をサポートするアプリです。なぞり書き練習のプリントを生成できます。
 
 [なぞってエイゴ](https://t-cool.github.io/tracy/)
