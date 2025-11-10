@@ -9,7 +9,7 @@
 [なぞってエイゴ](https://t-cool.github.io/tracy/)
   - 英語の文字や単語の筆記練習をサポートするアプリです。正しいストロークを視覚的に提示し、GIGA端末で手書き練習ができます。
 
-[flashcard](https://t-cool.github.io/flashcard/)
+[Flashcard](https://t-cool.github.io/flashcard/)
   - 英単語を効率的に覚えるための単語帳アプリです。
 
 [Praat Wasm](https://t-cool.github.io/praat-wasm/)
