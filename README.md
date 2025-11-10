@@ -30,7 +30,7 @@
 [talk-with-llama](https://t-cool.github.io/talk-with-llama/)
   - Meta の Llama モデルに基づき、特定のシチュエーションやロールプレイングを設定して英会話の練習ができる英会話練習アプリです。
 
-  - [AI Talk](https://t-cool.github.io/ai-talk)
+ [AI Talk](https://t-cool.github.io/ai-talk)
   - AI と英会話の練習ができるアプリです。ブラウザで動作するローカルLLM（
 SmolLM2-135M）を使っています。
 
