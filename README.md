@@ -48,7 +48,7 @@ SmolLM2-135M）を使っています。
   - Three.js を使ったシンプルな3Dワールドです。
 
 [boom](https://boom-bf06.onrender.com/)
-  - websocketとwebRTCを利用したマルチプレイヤー対応のチャットシステムです。
+  - WebSocketとWebRTCを利用したマルチプレイヤー対応のチャットシステムです。
 
 ---
 
