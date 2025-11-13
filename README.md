@@ -12,7 +12,7 @@
 [Flashcard](https://t-cool.github.io/flashcard/)
   - 英単語を効率的に覚えるための単語帳アプリです。
 
-[Praat Web](https://t-cool.github.io/praat-wasm/)
+[Praat Web](https://t-cool.github.io/praat-web/)
   - 音声分析ソフトウェア Praat をWebブラウザ上で動作させることができます。手軽に音声スペクトグラム分析ができます。
 
 [エイゴリズム](https://t-cool.github.io/liaison/)
