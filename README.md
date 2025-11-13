@@ -12,8 +12,8 @@
 [Flashcard](https://t-cool.github.io/flashcard/)
   - 英単語を効率的に覚えるための単語帳アプリです。
 
-[Praat Wasm](https://t-cool.github.io/praat-wasm/)
-  - 音声学研究で用いられる音声分析ソフトウェア Praat をWebブラウザ上で動作させることができ、手軽に音声スペクトグラム分析ができます。
+[Praat Web](https://t-cool.github.io/praat-wasm/)
+  - 音声分析ソフトウェア Praat をWebブラウザ上で動作させることができます。手軽に音声スペクトグラム分析ができます。
 
 [エイゴリズム](https://t-cool.github.io/liaison/)
   - 英文の音の連結や強弱を練習するためのアプリケーションです。
