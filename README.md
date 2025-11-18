@@ -1,7 +1,7 @@
 ## 英語教育
 
 [English Portal](https://t-cool.github.io/English-Portal/)
-  - 幼稚園から小学校、中学校までの基本的な英語を学習できるアプリケーションです。
+  - 自ら英語を学ぶためのポータルサイトです。
 
 [英プリ工房](https://t-cool.github.io/handwrite/)
   - 英語の筆記練習をサポートするアプリです。なぞり書き練習のプリントを生成できます。
