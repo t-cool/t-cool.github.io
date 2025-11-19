@@ -3,6 +3,9 @@
 [English Portal](https://t-cool.github.io/English-Portal/)
   - 自ら英語を学ぶためのポータルサイトです。
 
+[コパトレ](https://t-cool.github.io/brown-corpus-web/)
+  - Brown コーパスを利用し、コーパス内の英文を学習するアプリです。
+  
 [英プリ工房](https://t-cool.github.io/handwrite/)
   - 英語の筆記練習をサポートするアプリです。なぞり書き練習のプリントを生成できます。
 
