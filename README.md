@@ -10,13 +10,13 @@
   - 英語の筆記練習をサポートするアプリです。なぞり書き練習のプリントを生成できます。
 
 [なぞってエイゴ](https://t-cool.github.io/tracy/)
-  - 英語の文字や単語の筆記練習をサポートするアプリです。正しいストロークを視覚的に提示し、GIGA端末で手書き練習ができます。
+  - 英語の文字や単語の筆記練習をサポートするアプリです。
 
 [Flashcard](https://t-cool.github.io/flashcard/)
   - 英単語を効率的に覚えるための単語帳アプリです。
 
 [Praat Web](https://t-cool.github.io/praat-web/)
-  - 音声分析ソフトウェア Praat をWebブラウザ上で動作させることができます。手軽に音声スペクトグラム分析ができます。
+  - 音声分析ソフトウェア Praat をWebブラウザ上で動作させることができます。
 
 [エイゴリズム](https://t-cool.github.io/liaison/)
   - 英文の音の連結や強弱を練習するためのアプリケーションです。
@@ -28,7 +28,7 @@
   - 英語の対話文を元に、同じトーンの複数の画像をAIに生成させるためのアプリです。
 
 [talk-with-gemma2](https://t-cool.github.io/talk-with-gemma2/)
-  - Google の Gemma 2 モデルを活用した英会話シミュレーションアプリです。人間らしい応答で対話練習ができます。
+  - Google の Gemma 2 モデルを活用した英会話シミュレーションアプリです。
 
 [talk-with-llama](https://t-cool.github.io/talk-with-llama/)
   - Meta の Llama モデルに基づき、特定のシチュエーションやロールプレイングを設定して英会話の練習ができる英会話練習アプリです。
@@ -49,9 +49,6 @@ SmolLM2-135M）を使っています。
 
 [null](https://t-cool.github.io/null/)
   - Three.js を使ったシンプルな3Dワールドです。
-
-[boom](https://boom-bf06.onrender.com/)
-  - WebSocketとWebRTCを利用したマルチプレイヤー対応のチャットシステムです。
 
 ---
 
