@@ -1,7 +1,10 @@
 ## 英語教育
 
 [English Portal](https://t-cool.github.io/English-Portal/)
-  - 自ら英語を学ぶためのポータルサイトです。
+  - 意味順理論をもとに設計された英語学習のポータルサイトです。
+
+[ImiRead](https://github.com/t-cool/ImiRead)
+  - 意味順理論を長文読解に応用したアプリケーションです。
 
 [コーパスリーダー](https://t-cool.github.io/corpus-reader/)
   - Brown コーパスの英文をとおして、英文読解のトレーニングをするアプリです。
@@ -36,9 +39,6 @@
  [AI Talk](https://t-cool.github.io/ai-talk)
   - AI と英会話の練習ができるアプリです。ブラウザで動作するローカルLLM（
 SmolLM2-135M）を使っています。
-
-[marken](https://github.com/t-cool/marken)
-  - 英文に対して記号付けをするためのアプリケーションです。
 
 ---
 
