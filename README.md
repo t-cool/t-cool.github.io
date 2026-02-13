@@ -1,7 +1,10 @@
 ## 英語教育
 
+[imijun](https://t-cool.github.io/imijun/)
+  - 中高生向けに開発された英語学習アプリケーションです。
+
 [English Portal](https://t-cool.github.io/English-Portal/)
-  - 意味順理論をもとに設計された英語学習のポータルサイトです。
+  - 幼稚園〜小学生向けに設計された英語学習のポータルサイトです。
 
 [ImiRead](https://github.com/t-cool/ImiRead)
   - 意味順理論を長文読解に応用したアプリケーションです。
@@ -40,15 +43,27 @@
   - AI と英会話の練習ができるアプリです。ブラウザで動作するローカルLLM（
 SmolLM2-135M）を使っています。
 
+[paperX](t-cool.github.io/paperx/)
+  - 英語での論文執筆に役立つ表現集です。
+
+[English-visualizer](https://github.com/t-cool/English-visualizer)
+  - 英文リストを元に、統一感のある画像を大量に生成するアプリケーションです。 
+
 ---
 
 ### 情報教育
+
+[Gemini Craft Studio](t-cool.github.io/gemini-craft-studio/)
+  - Google AI Studio で活用できるプロンプト集です 
 
 [タイピング](https://t-cool.github.io/typing)
   - タッチタイピングを習得するための練習アプリです。
 
 [null](https://t-cool.github.io/null/)
   - Three.js を使ったシンプルな3Dワールドです。
+
+[Live2D Talk](https://t-cool.github.io/pixi-live2d/)
+  - Live2D のモデルと英会話をするための実験プロジェクトです。
 
 ---
 
