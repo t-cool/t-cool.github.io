@@ -43,7 +43,7 @@
   - AI と英会話の練習ができるアプリです。ブラウザで動作するローカルLLM（
 SmolLM2-135M）を使っています。
 
-[paperX](t-cool.github.io/paperx/)
+[paperX](https://t-cool.github.io/paperx/)
   - 英語での論文執筆に役立つ表現集です。
 
 [English-visualizer](https://github.com/t-cool/English-visualizer)
