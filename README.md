@@ -53,7 +53,7 @@ SmolLM2-135M）を使っています。
 
 ### 情報教育
 
-[Gemini Craft Studio](t-cool.github.io/gemini-craft-studio/)
+[Gemini Craft Studio](https://t-cool.github.io/gemini-craft-studio/)
   - Google AI Studio で活用できるプロンプト集です 
 
 [タイピング](https://t-cool.github.io/typing)
