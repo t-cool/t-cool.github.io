@@ -1,4 +1,4 @@
-## 英語教育
+## 英語科
 
 [imijun](https://t-cool.github.io/imijun/)
   - 中高生向けに開発された英語学習アプリケーションです。
@@ -51,7 +51,7 @@ SmolLM2-135M）を使っています。
 
 ---
 
-### 情報教育
+### 情報
 
 [Gemini Craft Studio](https://t-cool.github.io/gemini-craft-studio/)
   - Google AI Studio で活用できるプロンプト集です 
@@ -67,7 +67,7 @@ SmolLM2-135M）を使っています。
 
 ---
 
-## 校務支援
+## 校務
 
 [Timetable](https://t-cool.github.io/timetable/)
   - 授業時間割を効率的に作成・管理するための学校向けの時間割管理ツールです。
