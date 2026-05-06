@@ -6,7 +6,7 @@
 [English Portal](https://t-cool.github.io/English-Portal/)
   - 幼稚園〜小学生向けに設計された英語学習のポータルサイトです。
 
-[ImiRead](https://t-cool.github.io/imijun-read/)
+[imijun-read](https://t-cool.github.io/imijun-read/)
   - 意味順理論を教科書本文の学習に応用したアプリケーションです。
 
 [コーパスリーダー](https://t-cool.github.io/corpus-reader/)
