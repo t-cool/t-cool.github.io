@@ -3,11 +3,11 @@
 [imijun](https://t-cool.github.io/imijun/)
   - 中高生向けに開発された英語学習アプリケーションです。
 
+[imijun read](https://t-cool.github.io/imijun-read/)
+  - 意味順理論を教科書本文の学習に応用したアプリケーションです。
+
 [English Portal](https://t-cool.github.io/English-Portal/)
   - 幼稚園〜小学生向けに設計された英語学習のポータルサイトです。
-
-[imijun-read](https://t-cool.github.io/imijun-read/)
-  - 意味順理論を教科書本文の学習に応用したアプリケーションです。
 
 [コーパスリーダー](https://t-cool.github.io/corpus-reader/)
   - Brown コーパスの英文をとおして、英文読解のトレーニングをするアプリです。
