@@ -1,5 +1,3 @@
-## 英語科
-
 [imijun](https://t-cool.github.io/imijun/)
   - 中高生向けに開発された英語学習アプリケーションです。
 
@@ -45,10 +43,6 @@ SmolLM2-135M）を使っています。
 
 [English-visualizer](https://github.com/t-cool/English-visualizer)
   - 英文リストを元に、統一感のある画像を大量に生成するアプリケーションです。 
-
----
-
-### 情報
 
 [Gemini Craft Studio](https://t-cool.github.io/gemini-craft-studio/)
   - Google AI Studio で活用できるプロンプト集です 
