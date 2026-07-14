@@ -1,9 +1,3 @@
-[imijun](https://t-cool.github.io/imijun/)
-  - 中高生向けに開発された英語学習アプリケーションです。
-
-[English Portal](https://t-cool.github.io/English-Portal/)
-  - 幼稚園〜小学生向けに設計された英語学習のポータルサイトです。
-
 [コーパスリーダー](https://t-cool.github.io/corpus-reader/)
   - Brown コーパスの英文をとおして、英文読解のトレーニングをするアプリです。
   
