@@ -56,10 +56,6 @@ SmolLM2-135M）を使っています。
 [Live2D Talk](https://t-cool.github.io/pixi-live2d/)
   - Live2D のモデルと英会話をするための実験プロジェクトです。
 
----
-
-## 校務
-
 [Timetable](https://t-cool.github.io/timetable/)
   - 授業時間割を効率的に作成・管理するための学校向けの時間割管理ツールです。
 
